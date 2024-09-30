@@ -54,3 +54,5 @@ I'm a passionate student developer skilled in Python, C++, C, JavaScript, HTML/C
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yash1889&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![snake gif](https://github.com/Yash1889/Yash1889/blob/output/github-contribution-grid-snake.gif)
