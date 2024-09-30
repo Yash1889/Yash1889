@@ -12,17 +12,17 @@ I'm a passionate student developer skilled in Python, C++, C, JavaScript, HTML/C
 - AI, Web Development, Gaming
 
 ### 📈 My GitHub Stats
-<a href="http://www.github.com/Yashrajgpt">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashrajgpt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yashrajgpt's GitHub stats" />
+<a href="http://www.github.com/Yash1889">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash1889&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yashraj Gupta's GitHub stats" />
 </a>
-<a href="http://www.github.com/Yashrajgpt">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashrajgpt&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<a href="http://www.github.com/Yash1889">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash1889&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
-<a href="http://www.github.com/Yashrajgpt">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yashrajgpt&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<a href="http://www.github.com/Yash1889">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yash1889&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
-<a href="https://github.com/Yashrajgpt" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajgpt&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+<a href="https://github.com/Yash1889" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1889&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 ### 🛠️ Skills
@@ -53,4 +53,4 @@ I'm a passionate student developer skilled in Python, C++, C, JavaScript, HTML/C
 - Exploring new tech trends
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yashrajgpt&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yash1889&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
