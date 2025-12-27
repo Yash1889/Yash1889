@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashraj Gupta</h1>
 
-<h3 align="center">
-🧠 Competitive Programmer • 🧪 ML Engineer • 🌐 Web Developer
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=ML+Engineer;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yash1889&style=flat-square&color=blue" alt=""/>
 </p>
 
 
@@ -22,8 +14,6 @@
 - 🤝 Open to relevant internship opportunities and technical collaborations.
 - ✉️ You can shoot me an email at yashrajgupta188@gmail.com! I'll try to respond as soon as I can.
 - 📄 Please have a look at my [resume](./Yashraj_Gupta_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
-
-
 
 
 
@@ -67,82 +57,52 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- overall stats -->
-  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yash1889&theme=github_dark)
-  
-  <!-- languages -->
-  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash1889&theme=github_dark)
-</p>
-
-<p align="center">
-  <!-- contribution streak -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yash1889)](https://git.io/streak-stats)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yash1889&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash1889&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash1889&theme=github_dark" />
 </p>
 
 
 
 
 
-### 👨‍💻 Online Judge Profiles
+## ⚔️ Competitive Programming
 
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/yashrajgybz2/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-1872-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://codeforces.com/profile/yash_fsoc" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+
   <a href="https://leetcode.com/u/sudoYash/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1592-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://codeforces.com/profile/ogla" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1324-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+
   <a href="https://www.codechef.com/users/yashizzer" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-3⭐️%201601-brightgreen?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/yashrajgybz2/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Yash1889">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yash1889&show_icons=true&count_private=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Yash1889">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash1889&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Yash1889">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yash1889&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash1889&theme=radical&no-frame=true&margin-w=6" />
-</p>
-
----
-
-### 🌍 Connect with Me
+## 🤝🏻 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-raj-gupta001/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/Yashrajgupta199" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+
   <a href="https://github.com/Yash1889" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
 
----
+  <a href="https://x.com/Yashrajgupta199" target="_blank">
+    <img src="https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 
-<!-- Snake Contribution Graph -->
-<p align="center">
-  <img src="https://github.com/Yash1889/Yash1889/blob/output/github-contribution-grid-snake.svg" />
+  <a href="mailto:yashrajgupta188@gmail.com">
+    <img src="https://img.shields.io/badge/yashrajgupta188%40gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" />
+  </a>
 </p>
