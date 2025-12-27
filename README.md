@@ -12,65 +12,76 @@
   <img src="https://komarev.com/ghpvc/?username=Yash1889&style=flat-square&color=blue" alt=""/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GFG-1872-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Leetcode-1592-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Codeforces-1324-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Codechef-3⭐️-brightgreen?style=for-the-badge" />
+
+👨🏻‍💻 About Me
+
+- 💡 Competitive Programmer and Full-Stack Developer focused on problem-solving and building reliable systems.
+- 🎓 3rd-year B.Tech CSE (AI) student at KIET Group of Institutions.
+- 🧠 Actively working on DSA, competitive programming, and full-stack development; exploring ML practically.
+- ♟️ Interested in chess and psychology, influencing my approach to strategy and decision-making.
+- 🤝 Open to relevant internship opportunities and technical collaborations.
+- ✉️ You can shoot me an email at yashrajgupta188@gmail.com! I'll try to respond as soon as I can.
+- 📄 Please have a look at my [resume](./Yashraj_Gupta_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
+
+
+
+
+
+<h2>🛠 Tech Stack</h2>
+
+<img src="./coding.gif" width="240" align="right"/>
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+</p>
 
-### 🚀 Projects
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+</p>
 
-#### 🎬 [Movies-Hub](https://github.com/Yash1889/movies-hub)
-A modern IMDB-like movie tracking web app built using **HTML**, **CSS**, and **JavaScript**:
-- Real-time fuzzy search  
-- 10-star rating system  
-- Movie reviews  
-- Watchlist & Watched sections  
-- Responsive and clean UI with subtle hover animations
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-#### 🗜️ [Image Compressor & PDF Creator](https://github.com/Yash1889/image-compressor)
-A Python + Web-based app to compress images and convert them into a PDF:
-- 🖼 Compress multiple images using **PIL**
-- 💾 Save compressed images to a separate folder
-- 📄 Convert compressed images into a PDF
-- 🌐 Frontend: Interactive UI using HTML, CSS, JS
-- 🧠 Backend: Python, Pillow, `traceback`, `os` modules
-- 🧪 Live preview with mouse-hover color transitions and smooth effects
+<br clear="right"/>
 
-> 📂 Technologies Used: `Python`, `PIL`, `traceback`, `os`, `HTML`, `CSS`, `JavaScript`  
-> 🔥 Features: Drag & Drop image input, quality control slider, hover animations, auto PDF creation
 
-#### 🌐 Portfolio Website
-A personal developer portfolio to showcase my projects, skills, and achievements with modern design and responsiveness.
 
----
 
-### 🛠️ Tech Stack
+## 📊 GitHub Analytics
 
-#### 💻 Web Development
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express.js, MongoDB  
+<p align="center">
+  <!-- overall stats -->
+  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yash1889&theme=github_dark)
+  
+  <!-- languages -->
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash1889&theme=github_dark)
+</p>
 
-#### 🧠 Competitive Programming
-- C++, C
+<p align="center">
+  <!-- contribution streak -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yash1889)](https://git.io/streak-stats)
+</p>
 
-#### 🤖 Machine Learning (Beginner)
-- Python, Pandas, NumPy, Matplotlib, Tkinter
 
-#### 🔧 Frameworks & Tools
-- React, Next.js, Node.js, Express.js, Git, GitHub, VS Code, MongoDB
 
----
 
-### 🎯 Interests
-- ⚔️ Competitive Programming  
-- ♟️ Chess  
-- 🧠 Psychology
-
----
 
 ### 👨‍💻 Online Judge Profiles
 
