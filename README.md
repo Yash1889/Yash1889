@@ -13,7 +13,7 @@
 - ♟️ Interested in chess and psychology, influencing my approach to strategy and decision-making.
 - 🤝 Open to relevant internship opportunities and technical collaborations.
 - ✉️ You can shoot me an email at yashrajgupta188@gmail.com! I'll try to respond as soon as I can.
-- 📄 Please have a look at my [resume](./Yashraj_Gupta_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [resume](./BetterCallYash.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
 
