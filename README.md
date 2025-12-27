@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yashraj Gupta</h1>
-
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=ML+Engineer;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
 </p> -->
@@ -9,8 +7,12 @@
   <img src="./github_pfp.jpeg" alt="Profile Banner" width="100%" />
 </p>
 
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey there! I'm Yash
+</h2>
 
-👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 - 💡 Competitive Programmer and Full-Stack Developer focused on problem-solving and building reliable systems.
 - 🎓 3rd-year B.Tech CSE (AI) student at KIET Group of Institutions.
