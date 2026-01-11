@@ -64,9 +64,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://githubanalytics-tawny.vercel.app/api/stats" width="420" height="260" />
-<img src="https://githubanalytics-tawny.vercel.app/api/langs" width="420" height="260" />
+<img src="https://githubanalytics-tawny.vercel.app/api/stats?cache=__CACHE__" width="420" height="260">
+<img src="https://githubanalytics-tawny.vercel.app/api/langs?cache=__CACHE__" width="420" height="260">
 
 </div>
 
