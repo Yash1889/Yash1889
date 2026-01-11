@@ -65,11 +65,11 @@
 
 <div align="center">
 
-<img src="https://githubanalytics-tawny.vercel.app/api/stats" width="440" />
-<img src="https://githubanalytics-tawny.vercel.app/api/langs" width="440" />
+<img src="https://githubanalytics-tawny.vercel.app/api/stats" width="420" height="260" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://githubanalytics-tawny.vercel.app/api/langs" width="420" height="260" />
 
 </div>
-
 
 
 
