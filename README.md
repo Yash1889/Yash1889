@@ -15,7 +15,7 @@
 ## 👨🏻‍💻 About Me
 
 - 💡 Competitive Programmer and Full-Stack Developer focused on problem-solving and building reliable systems.
-- 🎓 3rd-year B.Tech CSE (AI) student at KIET Group of Institutions.
+- 🎓 4th-year B.Tech CSE (AI) student at KIET Group of Institutions.
 - 🧠 Actively working on DSA, competitive programming, and full-stack development; exploring ML practically.
 - ♟️ Interested in chess and psychology, influencing my approach to strategy and decision-making.
 - 🤝 Open to relevant internship opportunities and technical collaborations.
